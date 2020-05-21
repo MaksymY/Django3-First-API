@@ -24,5 +24,5 @@ urlpatterns = [
 
     path('api/rest-auth/registration/', include('rest_auth.registration.urls')),
 
-    re_path(r"^.*$", IndexTemplateView.as_view(), name="entry-point"),
+    re_path(r"^.*$", IndexTemplateView.as_view(), name="entry-point")
 ]
