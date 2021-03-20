@@ -48,7 +48,7 @@ inflection==0.4.0
 isort==4.3.21
 itypes==1.2.0
 jdcal==1.4.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 kombu==4.6.8
 lazy-object-proxy==1.4.3
 mandrill==1.0.59
