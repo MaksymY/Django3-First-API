@@ -76,7 +76,7 @@ pyparsing==2.4.7
 python-dateutil==2.7.3
 pytz==2019.3
 pyudev==0.22.0
-PyYAML==5.3.1
+PyYAML==5.4
 qrcode==6.1
 query-string==2019.4.13
 requests==2.23.0
